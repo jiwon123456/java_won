@@ -14,6 +14,7 @@ public class Ja0901_연습용 {
 		}
 		
 		
+		
 //		System.out.println("학번을 입력하세요.");
 //		int number = scan.nextInt();
 //        scan.nextLine();
