@@ -22,5 +22,6 @@ public class Ja0831_연습용 {
        System.out.printf("합계 : %d \n", total);
        System.out.printf("평균 : %.2f \n", avg);
 	}
+	
 
 }
